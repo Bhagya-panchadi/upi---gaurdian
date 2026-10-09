@@ -1,0 +1,6 @@
+{
+  "name": "UPI Guardian",
+  "description": "Real-time suspicious UPI message and fraud detection powered by n8n workflow intelligence. Analyze payment SMS, collect requests, and scam notifications for risk levels, fraud patterns, and safety advice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
